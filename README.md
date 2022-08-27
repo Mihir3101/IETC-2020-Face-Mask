@@ -12,7 +12,7 @@ This dataset has: 10K train images(5K with Mask and 5K without mask) & 992 test 
 ## Sample Output file
 ![Sample Output](https://github.com/Mihir3101/IETC-2020-Face-Mask/blob/main/sample%20output.png)
 
-## Developers
+## Team
 - Aniket Srivastava &nbsp;[![GitHub Badge](https://img.shields.io/badge/Aniket-black?style=flat&logo=github&logoColor=white)](https://github.com/Aniket-Srivastava-21)  [🔗](https://iet.nitk.ac.in/member/aniketsrivastava)
 
 - Mihir Maheshwari &nbsp;[![GitHub Badge](https://img.shields.io/badge/Mihir3101-black?style=flat&logo=github&logoColor=white)](https://github.com/Mihir3101) &nbsp; [🔗](https://iet.nitk.ac.in/member/maheshwarimihirpremjibhai/)
